@@ -1,0 +1,13 @@
+h1, p {
+  font-family: Lato;
+}
+section:nth-child(even){
+  background-color:rgba(0,0,0,0.2)
+}
+li{
+  cursor: pointer
+}
+h1{
+  text-align: center;
+  font-size: 2rem
+}
